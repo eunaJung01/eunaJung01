@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 -->
-<div align="center">
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=eunaJung01&show_icons=true&hide_border=true)](https://github.com/eunaJung01)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunaJung01&layout=compact)](https://github.com/eunaJung01)
