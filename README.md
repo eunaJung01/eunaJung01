@@ -1,5 +1,5 @@
-#### 안녕하세요! 열정으로 불타오르는 개발자 정은아입니다 :)
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=timeAuto&height=${200}&section=header&text=${Euna Jung}&fontSize=${50]&animation=${twinkling})
+### 안녕하세요! 열정으로 불타오르는 개발자 정은아입니다 :)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Euna Jung&fontSize=50&animation=false)
 
 <div align="center" style="text-align:center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23674B61&title_bg=%231B1515&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
