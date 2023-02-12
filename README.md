@@ -1,8 +1,8 @@
-## 🐟
+# 🐟
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:674b61&height=200&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:674b61&height=250&section=header)
 
-### About me
+## About me
 
 안녕하세요! 열정으로 불타오르는 개발자 정은아입니다 :)
 
@@ -22,20 +22,9 @@
 
 <br/>
 
-### Activities
+## Activities
 
 `2021.09 ~ 2022.02` UMC 1기 Server(SpringBoot) 챌린저  
 `2022.02 ~ 2023.02` UMC 2기 & 3기 건국대 Server 파트장
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=christinejung10)](https://solved.ac/christinejung10)
-
-<br/>
-
-### Most Used Languages
-<p>
-  <a href="https://github.com/eunaJung01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunaJung01&layout=compact&show_icons=true&show_owner=true&hide_title=True&theme=nord&hide=true" />
-  </a>
-</p>
-
-<br/>
