@@ -9,7 +9,7 @@
 이화여자고등학교 131기  
 건국대학교 컴퓨터공학부 20학번
 
-<a href = "mailto:christinejung10@daum.net="><img src ="https://img.shields.io/badge/Email-black?style=flat&logo=Mail.Ru&logoColor=white"></a>
+<a href = "mailto:christinejung10@daum.net"><img src ="https://img.shields.io/badge/Email-black?style=flat&logo=Mail.Ru&logoColor=white"></a>
 <a href = "https://eunajung01.tistory.com/"><img src ="https://img.shields.io/badge/Blog-black?style=flat&logo=Tistory&logoColor=white"></a>
 <a href = "https://instagram.com/c.euna.j?igshid=ZDdkNTZiNTM="><img src ="https://img.shields.io/badge/Instagram-black?style=flat&logo=Instagram&logoColor=white"></a>
 
