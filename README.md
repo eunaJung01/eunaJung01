@@ -25,7 +25,8 @@
 
 ## Activities
 
-`2021.09 ~ 2022.02` UMC 1기 Server(SpringBoot) 챌린저  
-`2022.02 ~ 2023.02` UMC 2기 & 3기 건국대 Server 파트장
+`2021.09 ~ 2022.02` UMC 1st Server(SpringBoot) 챌린저  
+`2022.02 ~ 2023.02` UMC 2nd & 3rd 건국대 Server 파트장  
+`2023.02 ~ 2023.08` KUIT 1st Server 파트장 (강의자)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=christinejung10)](https://solved.ac/christinejung10)
