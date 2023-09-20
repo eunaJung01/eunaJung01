@@ -12,13 +12,6 @@
 <a href = "mailto:christinejung10@daum.net"><img src ="https://img.shields.io/badge/Email-black?style=flat&logo=Mail.Ru&logoColor=white"></a>
 <a href = "https://eunajung01.tistory.com/"><img src ="https://img.shields.io/badge/Blog-black?style=flat&logo=Tistory&logoColor=white"></a>
 <a href = "https://instagram.com/c.euna.j?igshid=ZDdkNTZiNTM="><img src ="https://img.shields.io/badge/Instagram-black?style=flat&logo=Instagram&logoColor=white"></a>
-
-<p>
-  <a href="https://github.com/eunaJung01">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=eunaJung01&hide=false&hide_title=true&show_icons=false&include_all_commits=true&theme=nord" />
-  </a>
-</p>
-
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FeunaJung01&count_bg=%23674B61&title_bg=%23332A2A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <br/>
