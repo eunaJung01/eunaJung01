@@ -6,7 +6,7 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 3
 
 markdown_text = """## 🐟
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:674b61&height=160&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:674b61&height=170&section=header)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FeunaJung01&count_bg=%23674B61&title_bg=%23332A2A&icon=&icon_color=%23E7E7E7&title=hello&edge_flat=false"/></a>
 
