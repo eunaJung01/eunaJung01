@@ -7,9 +7,9 @@
 건국대학교 컴퓨터공학부 20학번
 
 ### Latest Blog Posts
+[2024-07-02: Shell script를 통해 Performance breakdown 코드 실행하기](http://eunajung01.tistory.com/162) <br/>
+[2024-07-02: [Oracle] Database Physical &amp; Logical Storage Structures](http://eunajung01.tistory.com/161) <br/>
 [2024-06-09: Optimistic Version Locking](http://eunajung01.tistory.com/160) <br/>
 [2024-05-13: How to Debug in a Multi-threaded Parallel Program](http://eunajung01.tistory.com/159) <br/>
-[2024-05-05: Blocking vs. Non-Blocking / Synchronous vs. Asynchronous](http://eunajung01.tistory.com/158) <br/>
-[2024-01-01: Bulk-Loading of a B+-Tree (Bottom-Up Approach)](http://eunajung01.tistory.com/157) <br/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=christinejung10)](https://solved.ac/christinejung10)
