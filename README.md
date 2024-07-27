@@ -7,9 +7,9 @@
 건국대학교 컴퓨터공학부 20학번
 
 ### Latest Blog Posts
+[2024-07-27: [Oracle] Latch vs. Lock ??](http://eunajung01.tistory.com/164) <br/>
 [2024-07-15: [CPU] What is Hyper-Threading ?](http://eunajung01.tistory.com/163) <br/>
 [2024-07-02: [Shell Script] sed command를 통해 Performance breakdown 코드 실행하기](http://eunajung01.tistory.com/162) <br/>
 [2024-07-02: [Oracle] Database Physical &amp; Logical Storage Structures](http://eunajung01.tistory.com/161) <br/>
-[2024-06-09: [Concurrency Control] Optimistic Version Locking](http://eunajung01.tistory.com/160) <br/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=christinejung10)](https://solved.ac/christinejung10)
