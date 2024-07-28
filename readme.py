@@ -3,7 +3,7 @@ import time
 
 URL = "http://eunajung01.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 3
+MAX_POST = 4
 
 markdown_text = """## 🐟
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:674b61&height=170&section=header)
