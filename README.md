@@ -7,6 +7,7 @@
 건국대학교 컴퓨터공학부 20학번
 
 ### Latest Blog Posts
+[2024-08-05: [CPU] How to Implement CPU(or Core) Pinning](http://eunajung01.tistory.com/165) <br/>
 [2024-07-27: [Oracle] Latch vs. Lock ??](http://eunajung01.tistory.com/164) <br/>
 [2024-07-15: [CPU] What is Hyper-Threading ?](http://eunajung01.tistory.com/163) <br/>
 [2024-07-02: [Shell Script] sed command를 통해 Performance breakdown 코드 실행하기](http://eunajung01.tistory.com/162) <br/>
