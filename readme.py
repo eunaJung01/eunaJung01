@@ -21,7 +21,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         break
     else:
         feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y-%m-%d', feed_date)}: {feed['title']}]({feed['link']}) <br/>\n"
+        markdown_text += f"- [{time.strftime('%Y-%m-%d', feed_date)}: {feed['title']}]({feed['link']}) <br/>\n"
 
 markdown_text += """
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=christinejung10)](https://solved.ac/christinejung10)
