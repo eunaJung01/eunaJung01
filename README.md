@@ -13,5 +13,7 @@
 - [[CPU] What is Hyper-Threading ?](http://eunajung01.tistory.com/163) <br/>
 - [[Shell Script] sed command를 통해 Performance breakdown 코드 실행하기](http://eunajung01.tistory.com/162) <br/>
 - [[Oracle] Database Physical &amp; Logical Storage Structures](http://eunajung01.tistory.com/161) <br/>
+- [[Concurrency Control] Optimistic Version Locking](http://eunajung01.tistory.com/160) <br/>
+- [How to Debug in a Multi-threaded Parallel Program](http://eunajung01.tistory.com/159) <br/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=christinejung10)](https://solved.ac/christinejung10)
