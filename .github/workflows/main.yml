@@ -38,5 +38,5 @@ jobs:
         git diff
         git config --local user.email "christinejung10@daum.net"
         git config --local user.name "eunaJung01"
-        git commit -m "updating latest blog posts"
+        git commit -m "Update latest blog posts"
         git push
