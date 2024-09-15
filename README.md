@@ -7,13 +7,13 @@
 건국대학교 컴퓨터공학부 20학번
 
 ### Latest Blog Posts
-- [[Concurrency Control] Index-locking Protocol: The Way to Prevent Phantom Reads](https://eunajung01.tistory.com/167) <br/>
-- [[Database] Isolation Levels](https://eunajung01.tistory.com/166) <br/>
-- [[CPU] How to Implement CPU(or Core) Pinning](https://eunajung01.tistory.com/165) <br/>
-- [[Oracle] Latch vs. Lock ??](https://eunajung01.tistory.com/164) <br/>
-- [[CPU] What is Hyper-Threading ?](https://eunajung01.tistory.com/163) <br/>
-- [[Shell Script] sed command를 통해 Performance breakdown 코드 실행하기](https://eunajung01.tistory.com/162) <br/>
-- [[Oracle] Database Physical &amp; Logical Storage Structures](https://eunajung01.tistory.com/161) <br/>
-- [[Concurrency Control] Optimistic Version Locking](https://eunajung01.tistory.com/160) <br/>
+- [[Concurrency Control] Index-locking Protocol: The Way to Prevent Phantom Reads](http://eunajung01.tistory.com/167) <br/>
+- [[Database] Isolation Levels](http://eunajung01.tistory.com/166) <br/>
+- [[CPU] How to Implement CPU(or Core) Pinning](http://eunajung01.tistory.com/165) <br/>
+- [[Oracle] Latch vs. Lock ??](http://eunajung01.tistory.com/164) <br/>
+- [[CPU] What is Hyper-Threading ?](http://eunajung01.tistory.com/163) <br/>
+- [[Shell Script] sed command를 통해 Performance breakdown 코드 실행하기](http://eunajung01.tistory.com/162) <br/>
+- [[Oracle] Database Physical &amp; Logical Storage Structures](http://eunajung01.tistory.com/161) <br/>
+- [[Concurrency Control] Optimistic Version Locking](http://eunajung01.tistory.com/160) <br/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=christinejung10)](https://solved.ac/christinejung10)
