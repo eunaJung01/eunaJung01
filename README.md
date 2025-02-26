@@ -7,13 +7,13 @@
 건국대학교 컴퓨터공학부 20학번
 
 ### Latest Blog Posts
+- [[Server] Redis &amp; Local cache를 통한 조회 성능 개선기](http://eunajung01.tistory.com/174) <br/>
 - [[Server] Redis Pub/Sub을 통해 Local cache 동기화하기](http://eunajung01.tistory.com/172) <br/>
-- [[Server] LazyConnectionDataSourceProxy로 DB connection 요청 줄이기](http://eunajung01.tistory.com/171) <br/>
-- [[Server] Offset 기반 vs. Cursor 기반 Pagination (feat. nGrinder 부하 테스트)](http://eunajung01.tistory.com/170) <br/>
+- [[Spring] LazyConnectionDataSourceProxy로 DB connection 요청 줄이기](http://eunajung01.tistory.com/171) <br/>
+- [[Server] Offset 기반 vs. Cursor 기반 Pagination (with nGrinder 부하 테스트)](http://eunajung01.tistory.com/170) <br/>
 - [[Oracle] SQL Processing - Library Cache, Soft parse vs. Hard parse](http://eunajung01.tistory.com/168) <br/>
 - [[Concurrency Control] Index-locking Protocol: The Way to Prevent Phantom Reads](http://eunajung01.tistory.com/167) <br/>
 - [[Database] Isolation Levels](http://eunajung01.tistory.com/166) <br/>
 - [[CPU] How to Implement CPU(or Core) Pinning](http://eunajung01.tistory.com/165) <br/>
-- [[Oracle] Latch vs. Lock ??](http://eunajung01.tistory.com/164) <br/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=christinejung10)](https://solved.ac/christinejung10)
