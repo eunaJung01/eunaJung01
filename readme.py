@@ -1,5 +1,4 @@
 import feedparser
-import time
 
 URL = "http://eunajung01.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
