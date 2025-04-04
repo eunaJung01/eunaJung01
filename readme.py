@@ -2,7 +2,7 @@ import feedparser
 
 URL = "http://eunajung01.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POSTS = 4
+MAX_POSTS = 5
 
 markdown_text = """## 🐟
 ### Latest Blog Posts
